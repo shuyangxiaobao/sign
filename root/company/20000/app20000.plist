@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 这是内网地址，访问速度快 -->
-					<string>http://192.168.0.104:8086/images/app20000.ipa</string>
+					<string>http://192.168.0.104:8086/images/company/app20000.ipa</string>
 
 				</dict>
 				<dict>
@@ -37,7 +37,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>qdinfini.com.cn</string>
+				<string>qdinfini.com.cn.20000</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>

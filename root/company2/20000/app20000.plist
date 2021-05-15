@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 这是内网地址，访问速度快 -->
-					<string>http://192.168.0.104:8086/images/company/app10000.ipa</string>
+					<string>http://192.168.0.104:8086/images/app20000.ipa</string>
 
 				</dict>
 				<dict>
@@ -22,7 +22,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>http://192.168.0.104:8086/images/big10000.png</string>
+					<string>http://192.168.0.104:8086/images/big20000.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,13 +31,13 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-					<string>http://192.168.0.104:8086/images/small10000.png</string>
+					<string>http://192.168.0.104:8086/images/small20000.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>qdinfini.com.cn.10000</string>
+				<string>qdinfini.com.cn</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>

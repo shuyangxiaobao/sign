@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://192.168.0.104:8086/root/receiveUUID/10003</string> <!--接收数据的接口地址 这是内网地址-->
+            <string>http://192.168.0.104:8086/root/receiveUUID/20000</string> <!--接收数据的接口地址 这是内网地址-->
             <key>DeviceAttributes</key>
             <array>
                 <string>SERIAL</string>
@@ -20,11 +20,11 @@
         <key>PayloadOrganization</key>
         <string>xxx有限公司</string>  <!--组织名称-->
         <key>PayloadDisplayName</key>
-        <string>app10003</string>  <!--安装时显示的标题-->
+        <string>app名称</string>  <!--安装时显示的标题-->
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
-        <string>735yu785FD76E1025AD4BF32D083ABA132310003</string>  <!--自己随机填写的唯一字符串-->
+        <string>7358641FFD76E1025AD4BF32D083ABA1323A63EB</string>  <!--自己随机填写的唯一字符串-->
         <key>PayloadIdentifier</key>
         <string>dev.skyfox.profile-service</string>
         <key>PayloadDescription</key>
