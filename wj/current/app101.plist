@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 这是内网地址，访问速度快 -->
-					<string>https://ebkv1bl9.dongtaiyuming.net/images/app101.ipa</string>
+					<string>http://192.168.206.66:8086/images/app101.ipa</string>
 
 				</dict>
 				<dict>
@@ -22,7 +22,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>https://ebkv1bl9.dongtaiyuming.net/images/big101.png</string>
+					<string>http://192.168.206.66:8086/images/big101.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-					<string>https://ebkv1bl9.dongtaiyuming.net/images/small101.png</string>
+					<string>http://192.168.206.66:8086/images/small101.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
