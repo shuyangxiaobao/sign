@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>http://ebkv1bl9.dongtaiyuming.net/root/receiveUUID/101</string> <!--接收数据的接口地址 这是内网地址-->
+            <string>https://ebkv1bl9.dongtaiyuming.net/root/receiveUUID/101</string> <!--接收数据的接口地址 这是内网地址-->
             <key>DeviceAttributes</key>
             <array>
                 <string>SERIAL</string>
