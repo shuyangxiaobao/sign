@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 这是内网地址，访问速度快 -->
-					<string>http://ebkv1bl9.dongtaiyuming.net/images/app100.ipa</string>
+					<string>http://192.168.205.22:8086/images/app100.ipa</string>
 
 				</dict>
 				<dict>
@@ -22,7 +22,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>http://ebkv1bl9.dongtaiyuming.net/images/big100.png</string>
+					<string>http://192.168.205.22:8086/images/big100.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,13 +31,13 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-					<string>http://ebkv1bl9.dongtaiyuming.net/images/small100.png</string>
+					<string>http://192.168.205.22:8086/images/small100.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.epaitech.epi.100</string>
+				<string>com.epaitech.epi.1200.789</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
