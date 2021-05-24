@@ -20,7 +20,7 @@
         <key>PayloadOrganization</key>
         <string>xxx有限公司</string>  <!--组织名称-->
         <key>PayloadDisplayName</key>
-        <string>app100—2021</string>  <!--安装时显示的标题-->
+        <string>app100</string>  <!--安装时显示的标题-->
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
