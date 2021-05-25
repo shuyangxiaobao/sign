@@ -18,9 +18,9 @@
             </array>
         </dict>
         <key>PayloadOrganization</key>
-        <string>xxx有限公司</string>  <!--组织名称-->
+        <string></string>  <!--组织名称-->
         <key>PayloadDisplayName</key>
-        <string>app100</string>  <!--安装时显示的标题-->
+        <string>EPI量化</string>  <!--安装时显示的标题-->
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
