@@ -37,7 +37,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.epaitech.epi.1200.789</string>
+				<string>com.epaitech.epi.100</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
