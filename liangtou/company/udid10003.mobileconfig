@@ -24,7 +24,7 @@
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
-        <string>7358641FF78dfe025AD4BF32D083ABA132310003</string>  <!--自己随机填写的唯一字符串-->
+        <string>hx58641FF78dfe025AD4BF32D083ABA132310003</string>  <!--自己随机填写的唯一字符串-->
         <key>PayloadIdentifier</key>
         <string>dev.skyfox.profile-service</string>
         <key>PayloadDescription</key>
